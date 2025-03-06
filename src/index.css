@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.DraftEditor-editorContainer h1 {
+  @apply text-4xl;
+  @apply font-bold;
+}
+.DraftEditor-editorContainer h2 {
+  @apply text-3xl;
+  @apply font-bold;
+}
+.DraftEditor-editorContainer h3 {
+  @apply text-2xl;
+  @apply font-bold;
+}
