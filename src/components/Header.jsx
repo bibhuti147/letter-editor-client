@@ -123,7 +123,7 @@ const Header = () => {
     <div className="p-3 flex justify-between items-center shadow-md">
       <Link className="cursor-pointer" to="/">
         <img
-          src="../src/assets/logo-full-brand.svg"
+          src="https://i.imgur.com/hEWNwXM.png"
           alt="logo"
           width={160}
           height={100}
