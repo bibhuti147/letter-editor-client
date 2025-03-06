@@ -122,7 +122,12 @@ const Header = () => {
   return (
     <div className="p-3 flex justify-between items-center shadow-md">
       <Link className="cursor-pointer" to="/">
-        <img src="../src/assets/logo.svg" alt="logo" width={160} height={100} />
+        <img
+          src="../src/assets/logo-full-brand.svg"
+          alt="logo"
+          width={160}
+          height={100}
+        />
       </Link>
       {userDetails ? (
         <button
